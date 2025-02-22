@@ -16,15 +16,32 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
 
 ---
 
+<div align="center">
+
 #### Linguagens de Programação | Bancos de Dados e Ferramentas | Frameworks | Ferramentas de Desenvolvimento
 
-[![HTML5](https://img.shields.io/badge/HTML5-%237851A9?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%237851A9?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%237851A9?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-%237851A9?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=%23FFFFFF)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-%237851A9?style=for-the-badge&logo=mysql&logoColor=%23005C84&labelColor=%23FFFFFF)](https://www.mysql.com/)
-[![DBeaver](https://img.shields.io/badge/DBeaver-%237851A9?style=for-the-badge&logo=dbeaver&logoColor=%235D6D7E&labelColor=%23FFFFFF)](https://dbeaver.io/)
-[![Node.js](https://img.shields.io/badge/Node.js-%237851A9?style=for-the-badge&logo=node.js&logoColor=%23339933&labelColor=%23FFFFFF)](https://nodejs.org/)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-%237851A9?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23FFFFFF" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-%237851A9?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23FFFFFF" alt="CSS3">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-%237851A9?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23FFFFFF" alt="JavaScript">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-%237851A9?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=%23FFFFFF" alt="Python">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-%237851A9?style=for-the-badge&logo=mysql&logoColor=%23005C84&labelColor=%23FFFFFF" alt="MySQL">
+  </a>
+  <a href="https://dbeaver.io/">
+    <img src="https://img.shields.io/badge/DBeaver-%237851A9?style=for-the-badge&logo=dbeaver&logoColor=%235D6D7E&labelColor=%23FFFFFF" alt="DBeaver">
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-%237851A9?style=for-the-badge&logo=node.js&logoColor=%23339933&labelColor=%23FFFFFF" alt="Node.js">
+  </a>
+</div>
 
 ---
 
@@ -53,8 +70,11 @@ Uma plataforma de emprego voltada para o setor de TI, desenvolvida com Node.js, 
 - **Tecnologias:** Node.js, Sequelize, MySQL, Express, Handlebars
 
 ---
-<br>
-<p align="center">
+
+<div align="center">
+
+### Contato
+
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-7851A9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -64,10 +84,10 @@ Uma plataforma de emprego voltada para o setor de TI, desenvolvida com Node.js, 
   <a href="mailto:nick.lisboa04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-7851A9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+</div>
 
 ---
-<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lisboani&color=7851A9" alt="lisboani" />
 </p>
