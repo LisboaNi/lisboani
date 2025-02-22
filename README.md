@@ -50,13 +50,13 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
     alt="GitHub Stats" 
     height="200" 
     width="360" 
-    src="https://github-readme-stats.vercel.app/api?username=lisboani&show_icons=true&bg_color=0d1117&title_color=7851A9&icon_color=7851A9&text_color=ffffff&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LisboaNi&show_icons=true&bg_color=0d1117&title_color=7851A9&icon_color=7851A9&text_color=ffffff&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Top Langs" 
     height="200" 
     width="320" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboani&bg_color=0d1117&title_color=7851A9&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaNi&bg_color=0d1117&title_color=7851A9&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
