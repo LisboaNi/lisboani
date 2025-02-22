@@ -25,8 +25,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
 [![MySQL](https://img.shields.io/badge/MySQL-%237851A9?style=for-the-badge&logo=mysql&logoColor=%23005C84&labelColor=%23FFFFFF)](https://www.mysql.com/)
 [![DBeaver](https://img.shields.io/badge/DBeaver-%237851A9?style=for-the-badge&logo=dbeaver&logoColor=%235D6D7E&labelColor=%23FFFFFF)](https://dbeaver.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-%237851A9?style=for-the-badge&logo=node.js&logoColor=%23339933&labelColor=%23FFFFFF)](https://nodejs.org/)
-[![Postman](https://img.shields.io/badge/Postman-%237851A9?style=for-the-badge&logo=postman&logoColor=%23FF6C37&labelColor=%23FFFFFF)](https://www.postman.com/)
-
 
 ---
 
@@ -34,13 +32,13 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
   <img 
     alt="GitHub Stats" 
     height="200" 
-    width="300" 
+    width="360" 
     src="https://github-readme-stats.vercel.app/api?username=lisboani&show_icons=true&bg_color=0d1117&title_color=7851A9&icon_color=7851A9&text_color=ffffff&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Top Langs" 
     height="200" 
-    width="265" 
+    width="320" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboani&bg_color=0d1117&title_color=7851A9&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
