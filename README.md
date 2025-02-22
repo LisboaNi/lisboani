@@ -49,7 +49,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
   <img 
     alt="GitHub Stats" 
     height="200" 
-    width="360" 
+    width="420" 
     src="https://github-readme-stats.vercel.app/api?username=LisboaNi&show_icons=true&bg_color=0d1117&title_color=7851A9&icon_color=7851A9&text_color=ffffff&include_all_commits=true&locale=pt-br" 
   />
   <img 
