@@ -77,8 +77,8 @@ Uma plataforma de emprego voltada para o setor de TI, desenvolvida com Node.js, 
 
 ### Contato
 
-  <a href="www.linkedin.com/in/nicoli-g-r-lisboa-0a85a221a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-7851A9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/nicoli-g-r-lisboa-0a85a221a" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-7851A9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7851A9" alt="LinkedIn">
   </a>
   <a href="https://github.com/LisboaNi" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-7851A9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
