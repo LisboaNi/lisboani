@@ -14,6 +14,8 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
 
 - No TCC, estou desenvolvendo, em grupo, uma plataforma de emprego voltada para TI, utilizando Node.js, Sequelize e MySQL.
 
+[Link do meu Portfólio](https://lisboani.github.io) 
+
 ---
 
 <div align="center">
