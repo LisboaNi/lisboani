@@ -68,8 +68,8 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
 
 #### [Projeto 1: Plataforma de Emprego para TI](https://github.com/LisboaNi/PIM_USCS_ITJOBS.git)
 Uma plataforma de emprego voltada para o setor de TI, desenvolvida com Node.js, Sequelize e MySQL.
-- **Funcionalidades:** Cadastro de vagas, busca de vagas, candidatura online.
-- **Tecnologias:** Node.js, Sequelize, MySQL, Express, Handlebars
+- **Funcionalidades:** Cadastro de vagas, busca de vagas e candidatura online.
+- **Tecnologias:** Node.js, Sequelize, MySQL e Express.
 
 ---
 
