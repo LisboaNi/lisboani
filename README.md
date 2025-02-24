@@ -47,13 +47,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
 
 ---
 
-### Joguinho da Cobra
-
-![GitHub Snake Game](https://raw.githubusercontent.com/LisboaNi/lisboani/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Game](https://raw.githubusercontent.com/LisboaNi/lisboani/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img 
     alt="GitHub Stats" 
