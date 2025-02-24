@@ -1,6 +1,6 @@
-![Gradient Background](image-001.png)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=header"/>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&color=7851A9&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!;)](https://git.io/typing-svg)
 
 # 👾 Nicoli Lisboa
 
@@ -47,6 +47,10 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
 
 ---
 
+![GitHub Snake Game](https://github.com/LisboaNi/lisboani/raw/output/github-contribution-grid-snake.svg)
+
+---
+
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img 
     alt="GitHub Stats" 
@@ -87,12 +91,9 @@ Uma plataforma de emprego voltada para o setor de TI, desenvolvida com Node.js, 
     <img src="https://img.shields.io/badge/-Email-7851A9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
----
-
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lisboani&color=7851A9" alt="lisboani" />
 </p>
 
----
-![Gradient Background](image-002.png)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=footer"/>
