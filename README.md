@@ -47,13 +47,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
 
 ---
 
-### Joguinho da Cobra
-
-![GitHub Snake Game](https://raw.githubusercontent.com/LisboaNi/lisboani/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Game](https://raw.githubusercontent.com/LisboaNi/lisboani/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img 
     alt="GitHub Stats" 
@@ -75,8 +68,8 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
 
 #### [Projeto 1: Plataforma de Emprego para TI](https://github.com/LisboaNi/PIM_USCS_ITJOBS.git)
 Uma plataforma de emprego voltada para o setor de TI, desenvolvida com Node.js, Sequelize e MySQL.
-- **Funcionalidades:** Cadastro de vagas, busca de vagas, candidatura online.
-- **Tecnologias:** Node.js, Sequelize, MySQL, Express, Handlebars
+- **Funcionalidades:** Cadastro de vagas, busca de vagas e candidatura online.
+- **Tecnologias:** Node.js, Sequelize, MySQL e Express.
 
 ---
 
