@@ -12,8 +12,6 @@ Atualmente, atuo como desenvolvedora júnior, trabalhando com Python.
 
 Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de conclusão em julho de 2025.
 
-- No TCC, estou desenvolvendo, em grupo, uma plataforma de emprego voltada para TI, utilizando Node.js, Sequelize e MySQL.
-
 [Link do meu Portfólio](https://lisboani.github.io) 
 
 ---
@@ -67,7 +65,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na USCS, com previsão de co
 ### 👾Projetos em Destaque
 
 #### [Projeto 1: MindTechCare](https://github.com/LisboaNi/MindTechCare)
-Plataforma voltada para bem-estar de queipes de TI, com integração de ferramentas como GitHub e Trello para monitorar e prevenir sinais de burnout e sobrecarga.
+Plataforma voltada para bem-estar de equipes de TI, com integração de ferramentas como GitHub e Trello para monitorar e prevenir sinais de burnout e sobrecarga.
 - **Funcionalidades:** Dashboards, Integração com Trello e GitHub.
 - **Tecnologias:** Python, Django, MySQL entre outros.
 
