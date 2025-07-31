@@ -1,4 +1,4 @@
-![Logo](src/img/banner.png)
+![Logo](./img/banner.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lisboani&style=for-the-badge&color=4C53C6)
 
@@ -49,7 +49,7 @@ Tenho experiência anterior como auxiliar administrativo e suporte técnico, ate
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LisboaNi&hide=issues,contribs&show_icons=true&locale=pt-br" width="425">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaNi&layout=compact&locale=pt-br" width="250">
+<img src="https://github-readme-stats.vercel.app/api?username=LisboaNi&hide=issues,contribs&show_icons=true&locale=pt-br" width="340">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaNi&layout=compact&locale=pt-br" width="200">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=footer"/>
