@@ -9,8 +9,8 @@
 <br>
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-4C53C6?style=for-the-badge)](https://lisboani.github.io/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-288BBD?style=for-the-badge)](https://linkedin.com/in/seuusuario) &nbsp;
-[![Email](https://img.shields.io/badge/-Email-0ABAB5?style=for-the-badge)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-288BBD?style=for-the-badge)](www.linkedin.com/in/nicoli-lisboa) &nbsp;
+[![Email](https://img.shields.io/badge/-Email-0ABAB5?style=for-the-badge)](mailto:lisboani04@email.com)
 
 <br>
 
