@@ -50,7 +50,7 @@ Tenho experiência anterior como auxiliar administrativo e suporte técnico, ate
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LisboaNi&hide=issues,contribs&show_icons=true&locale=pt-br" width="535"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaNi&layout=compact&locale=pt-br" width="315">
+    <img src="https://github-readme-stats.vercel.app/api?username=LisboaNi&hide=issues,contribs&show_icons=true&locale=pt-br" width="525"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisboaNi&layout=compact&locale=pt-br" width="305">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ABAB5&height=120&section=footer"/>
