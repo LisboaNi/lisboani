@@ -29,7 +29,7 @@ Tenho experiência anterior como auxiliar administrativo e suporte técnico, ate
 
 <br>
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=LisboaNi&repo=mindtechcare)](https://github.com/LisboaNi/MindTechCare)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=LisboaNi&repo=mindtechcare)](https://github.com/LisboaNi/MindTechCare-TCC)
 
 <br>
 
